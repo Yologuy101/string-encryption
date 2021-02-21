@@ -12,7 +12,6 @@ def encipher(s, x):
         else:
             new_s = new_s + " "
 
-
     return new_s
 
 def warp (end_char):
